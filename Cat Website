@@ -1,0 +1,58 @@
+
+<html>
+<head>
+			<title> Browser title here </title>
+</head>
+<body>
+<p>Menu options</p>
+<a href="#contacts-header">Contacts</a>
+<a href="#about-header">About</a>
+<a href="#form-header">Form</a>
+	<img src=”LINK” alt=”DESCRIPTION“>
+	<a href=”LINK”>This links to an external page</a>
+	<p>Here’s a 
+<a target=”_blank” href=”LINK”> link to xyz.org</a> 
+for you to follow.</p>
+<h1>Title 1.1</h1>
+<p><b>First</b> paragraph</p>
+<h1>Title 1.2</h1>
+<p><b>Second</b> paragraph</p>
+<h1>Title 1.3</h1>
+<p><b>Third</b> paragraph</p>
+<h2>Title 2.1</h2>
+<p><b>First</b> paragraph</p>
+<h2>Title 2.2</h2>
+<p><b>Second</b> paragraph</p>
+<h2>Title 2.3</h2>
+<p><b>Third</b> paragraph</p>
+<h3>Title 3.1</h3>
+<p><b>First</b> paragraph</p>
+<h3>Title 3.2</h3>
+<p><b>Second</b> paragraph</p>
+<h3>Title 3.3</h3>
+<p><b>Third</b> paragraph</p>
+<h4>Title 4.1</h4>
+<p><b>First</b> paragraph</p>
+<h4>Title 4.2</h4>
+<p><b>Second</b> paragraph</p>
+<h4>Title 4.3</h4>
+<p><b>Third</b> paragraph</p>
+	<p>Here’s another
+		<a target=”_blank” href=”LINK”> link to xyz.org</a>
+	for you to follow </p>
+<h4 id="contacts-header">Contacts</h4>
+<h4 id="about-header">About</h4>
+<h4 id="form-header">Form</h4>
+	<p>Here’s yet another
+		<a target=”_blank” href=”LINK”> link to xyz.org</a>
+	for you to follow </p>
+<!--Note for developer: invalid links inserted for testing, must be replaced before running code-->
+	<p>Click here to view more <a href=”#”>cat photos</a>.</p>
+<ol> Items listed
+	<li> Item 1 </li>
+	<li> Item 2 </li>
+	<li> Item 3 </li>
+</ol>
+<input type=”text” placeholder=”type your answer here”>
+</body>
+<html>
